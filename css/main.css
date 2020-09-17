@@ -23,7 +23,7 @@ h1 {
     font-size: 3em;
     font-family:'Akrobat';
 }
-p {
+p, dt, dd{
     font-size: 1.5em;
     line-height: 1.4em;
     font-family: 'Roboto';
@@ -41,4 +41,7 @@ ul.posts {
 
 ul.posts li {
     list-style: none;
+}
+nor {
+    font-family:"Roboto Mono";
 }
