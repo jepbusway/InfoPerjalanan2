@@ -23,12 +23,20 @@ h1 {
     font-size: 3em;
     font-family:'Akrobat';
 }
-p, dt, dd, td, th{
+p, dt, dd,{
     font-size: 1.5em;
     line-height: 1.4em;
     font-family: 'Roboto';
     color: #333;
 }
+
+td, th{
+    font-size: 1.0em;
+    line-height: 1.1em;
+    font-family: 'Roboto';
+    color: #333;
+}
+
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
